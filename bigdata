@@ -1,0 +1,77 @@
+
+Python for Data Science – Tutorial for Beginners #1 – Python Basics
+
+
+If you are learning Data Science, pretty soon you will meet Python. Why is that? 
+Because it’s one of the most commonly used data languages.
+It’s popular for 3 main reasons:
+
+    Python is fairly easy to interpret and learn.
+    Python handles different data structures very well.
+    Python has very powerful statistical and data visualization libraries.
+
+In my “Python for Data Science” articles I’ll show you everything you have to know. 
+I’ll start from the very basics – so if you have never touched code, don’t worry, you are at the right place. 
+I’ll focus only on the data science related part of Python – and I will skip all the unnecessary and impractical trifles. 
+We will go step by step and by the end of this tutorial series we will even do some fancy data things – like predictive analytics!
+
+Here we go!
+This is a Hands-On Tutorial!
+
+I always prefer learning by doing over learning by reading… If you do the coding part with me on your computer, 
+you will understand and recall everything at least 10 times better. Besides, 
+at the end of every article I’ll attach one or two little exercises, so you can test yourself!
+This means, though, that you will need a data server to practice. Follow this tutorial to set one up:
+
+How to install Python, R, SQL and bash to practice data science (LINK)
+
+Note: In the above tutorial we set up Jupyter (with iPython) only. 
+Later on we will install other Python libraries – eg. pandas, numpy, scikit, matplotlib – right when they will be needed!
+Why should you learn Python for Data Science?
+
+When it comes to learn data coding, you should focus on these four languages:
+
+    SQL
+    Python
+    R
+    Bash
+
+Of course, it’s very nice if you have time to learn all four. But if you are newer to this field, 
+you have to pick one or two first. I always suggest to start with Python and SQL. Using these two languages, 
+you will cover 99% of the data science and analytics problems you’ll have to deal with in the future.
+
+Note: I’ve already written an SQL for Data Analysis tutorial series. 
+Go and check it out here: SQL for Data Analysis, episode #1!
+
+Now why is it worth learning Python for Data Science?
+
+    It’s easy and fun.
+    It has many package as suitable for simpler Analytics projects 
+    (eg. segmentation, cohort analysis, explorative analytics, etc.) as advanced Data Science projects 
+    (eg. building machine learning models)
+    The job market begs for more data professionals with solid Python knowledge. 
+    It means knowing Python will be an extremely competitive element in your CV.
+
+What is Python? Is Python for Data Science only?
+
+I’ll keep the theoretical part short. But there are two things that you have to know about Python before you start using it.
+
+Firstly, Python is a general purpose programming language and it’s not only for Data Science. 
+This means, that you don’t have to learn every part of it to be a great data scientist. 
+At the same time, if you learn the basics well, you will understand other programming languages too – 
+which is always very handy, if you work in IT.
+
+Secondly, Python is a high-level language. It means, that in terms of CPU-time it’s not the most effective language on the planet. But on the other hand it was made to be simple, “user-friendly” and easy to interpret. Thus what you might lose on CPU-time, you might win back on engineering time.
+Python 2 vs Python 3 – which one to learn for Data Science?
+
+Maybe you have heard about this Python 2.x vs Python 3.x battle. I won’t go into details here, 
+because I’ve written another article about this topic already (here: Python 2 vs Python 3), but the point is:
+Python 3 has been around since 2008 – and 95% of the data science related features and libraries have been 
+migrated from Python 2 already. On the other hand Python 2 won’t be supported after 2020. 
+So learning Python 2 at this point is like learning Latin – it’s useful in some cases, but the future is for Python 3.
+
+Because of this, all my Python for Data Science tutorials will be written in Python 3.
+
+Note: However, I’ll try to use code that works in both versions whenever possible.
+
+Enough theory! Let’s get to coding!
