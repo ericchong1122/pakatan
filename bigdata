@@ -6,9 +6,9 @@ If you are learning Data Science, pretty soon you will meet Python. Why is that?
 Because it’s one of the most commonly used data languages.
 It’s popular for 3 main reasons:
 
-    Python is fairly easy to interpret and learn.
-    Python handles different data structures very well.
-    Python has very powerful statistical and data visualization libraries.
+   1. Python is fairly easy to interpret and learn.
+   2. Python handles different data structures very well.
+   3. Python has very powerful statistical and data visualization libraries.
 
 In my “Python for Data Science” articles I’ll show you everything you have to know. 
 I’ll start from the very basics – so if you have never touched code, don’t worry, you are at the right place. 
@@ -31,10 +31,10 @@ Why should you learn Python for Data Science?
 
 When it comes to learn data coding, you should focus on these four languages:
 
-    SQL
-    Python
-    R
-    Bash
+    1. SQL
+    2. Python
+    3. R
+    4. Bash
 
 Of course, it’s very nice if you have time to learn all four. But if you are newer to this field, 
 you have to pick one or two first. I always suggest to start with Python and SQL. Using these two languages, 
@@ -45,12 +45,12 @@ Go and check it out here: SQL for Data Analysis, episode #1!
 
 Now why is it worth learning Python for Data Science?
 
-    It’s easy and fun.
-    It has many package as suitable for simpler Analytics projects 
-    (eg. segmentation, cohort analysis, explorative analytics, etc.) as advanced Data Science projects 
-    (eg. building machine learning models)
-    The job market begs for more data professionals with solid Python knowledge. 
-    It means knowing Python will be an extremely competitive element in your CV.
+    1. It’s easy and fun.
+    2. It has many package as suitable for simpler Analytics projects 
+       (eg. segmentation, cohort analysis, explorative analytics, etc.) as advanced Data Science projects 
+       (eg. building machine learning models)
+    3. The job market begs for more data professionals with solid Python knowledge. 
+       It means knowing Python will be an extremely competitive element in your CV.
 
 What is Python? Is Python for Data Science only?
 
