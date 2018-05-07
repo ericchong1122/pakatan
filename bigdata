@@ -19,8 +19,8 @@ Here we go!
 This is a Hands-On Tutorial!
 
 I always prefer learning by doing over learning by reading… If you do the coding part with me on your computer, 
-you will understand and recall everything at least 10 times better. Besides, 
-at the end of every article I’ll attach one or two little exercises, so you can test yourself!
+you will understand and recall everything at least 10 times better. Besides, at the end of every article I’ll attach one or two
+little exercises, so you can test yourself!
 This means, though, that you will need a data server to practice. Follow this tutorial to set one up:
 
 How to install Python, R, SQL and bash to practice data science (LINK)
@@ -66,8 +66,8 @@ Python 2 vs Python 3 – which one to learn for Data Science?
 
 Maybe you have heard about this Python 2.x vs Python 3.x battle. I won’t go into details here, 
 because I’ve written another article about this topic already (here: Python 2 vs Python 3), but the point is:
-Python 3 has been around since 2008 – and 95% of the data science related features and libraries have been 
-migrated from Python 2 already. On the other hand Python 2 won’t be supported after 2020. 
+Python 3 has been around since 2008 – and 95% of the data science related features and libraries have been migrated from Python 2
+already. On the other hand Python 2 won’t be supported after 2020. 
 So learning Python 2 at this point is like learning Latin – it’s useful in some cases, but the future is for Python 3.
 
 Because of this, all my Python for Data Science tutorials will be written in Python 3.
